@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTrackGUI", "FastTrack\FastTrackGUI.csproj", "{ACF0FDE6-F438-4FBD-8415-67AF9D35C941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTrack.Core", "FastTrack.Core\FastTrack.Core.csproj", "{4263BA6F-9402-4C11-80C2-ED628B242F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF0FDE6-F438-4FBD-8415-67AF9D35C941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF0FDE6-F438-4FBD-8415-67AF9D35C941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF0FDE6-F438-4FBD-8415-67AF9D35C941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF0FDE6-F438-4FBD-8415-67AF9D35C941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4263BA6F-9402-4C11-80C2-ED628B242F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4263BA6F-9402-4C11-80C2-ED628B242F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4263BA6F-9402-4C11-80C2-ED628B242F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4263BA6F-9402-4C11-80C2-ED628B242F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E6D4683-EC9D-43F0-85ED-53C1E0459B3E}
+	EndGlobalSection
+EndGlobal

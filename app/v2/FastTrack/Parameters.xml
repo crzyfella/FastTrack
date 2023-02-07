@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FastTrack>
+  <Columns>
+    <Column name='id' type='Double' />
+    <Column name='calc' type='VarChar' />
+    <Column name='surface' type='VarChar' />
+    <Column name='rtype' type='VarChar' />
+    <Column name='agesex' type='VarChar' />
+    <Column name='claim' type='Double' />
+    <Column name='track' type='VarChar' />
+    <Column name='racedt' type='Date' />
+    <Column name='race' type='Integer' />
+    <Column name='length' type='Double' />
+    <Column name='horse' type='VarChar' />
+    <Column name='pp' type='VarChar' />
+    <Column name='ppx' type='VarChar' />
+    <Column name='line1' type='VarChar' />
+    <Column name='line2' type='VarChar' />
+    <Column name='avebeyer' type='Double' />
+    <Column name='minbeyer' type='Double' />
+    <Column name='maxbeyer' type='Double' />
+    <Column name='sdv' type='Double' />
+    <Column name='mike' type='Double' />
+    <Column name='btrend' type='Double' />
+    <Column name='avespeed' type='Double' />
+    <Column name='tp1' type='Double' />
+    <Column name='tp2' type='Double' />
+    <Column name='tp3' type='Double' />
+    <Column name='tp4' type='Double' />
+    <Column name='tp5' type='Double' />
+    <Column name='tp6' type='Double' />
+    <Column name='tp7' type='Double' />
+    <Column name='tp8' type='Double' />
+    <Column name='tp9' type='Double' />
+    <Column name='tp10' type='Double' />
+    <Column name='tp11' type='Double' />
+    <Column name='tp12' type='Double' />
+    <Column name='tp13' type='Double' />
+    <Column name='tp14' type='Double' />
+    <Column name='tp15' type='Double' />
+    <Column name='tp16' type='Double' />
+    <Column name='tp17' type='Double' />
+    <Column name='tp18' type='Double' />
+    <Column name='tp19' type='Double' />
+    <Column name='tp20' type='Double' />
+    <Column name='tp21' type='Double' />
+    <Column name='tp22' type='Double' />
+    <Column name='jockey' type='VarChar' />
+    <Column name='layoff' type='Double' />
+    <Column name='speed' type='Double' />
+    <Column name='spts' type='Double' />
+    <Column name='sc' type='Double' />
+    <Column name='efx' type='Double' />
+    <Column name='points' type='Double' />
+    <Column name='al' type='Double' />
+    <Column name='worscore' type='Double' />
+    <Column name='totalwor' type='Integer' />
+    <Column name='numofgoodwor' type='Integer' />
+    <Column name='compositescore' type='Double' />
+    <Column name='claimpricetrend' type='VarChar' />
+    <Column name='bettingline' type='Double' />
+    <Column name='closingtrend' type='Double' />
+    <Column name='pastperformance' type='Integer' />
+    <Column name='jockeystats' type='Double' />
+    <Column name='trainerstats' type='Double' />
+    <Column name='firsttimer' type='Integer' />
+    <Column name='firstcalltime' type='Double' />
+    <Column name='secondcalltime' type='Double' />
+    <Column name='stretchcalltime' type='Double' />
+    <Column name='stretchcallmin' type='Double' />
+    <Column name='stretchcallmax' type='Double' />
+    <Column name='stretchcallplacement' type='Double' />
+    <Column name='finaltime' type='Double' />
+    <Column name='finalmin' type='Double' />
+    <Column name='finalmax' type='Double' />
+    <Column name='finalplacement' type='Double' />
+    <Column name='furlongtime' type='Double' />
+    <Column name='horseplacement' type='Double' />
+  </Columns>
+  <TroubleLine>
+    <Phrase>off bit slow</Phrase>
+    <Phrase>off slow</Phrase>
+  </TroubleLine>
+</FastTrack>

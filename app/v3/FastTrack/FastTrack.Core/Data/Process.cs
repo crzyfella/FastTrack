@@ -1,0 +1,133 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FastTrack.Core.Data
+{
+    public class Process
+    {
+        public int ProcessID { get; set; }
+        public int RacID { get; set; }
+        public int EntID { get; set; }
+        public DateTime CreatedDt { get; set; }
+        public DateTime ChangeDt { get; set; }
+        public DateTime RaceDt { get; set; }
+        public string TrackCd { get; set; }
+        public float Distance { get; set; }
+        public float Furlong { get; set; }
+        public int RaceNum { get; set; }
+        public int TurfInd { get; set; }
+        public int HorseID { get; set; }
+        public string HorseName { get; set; }
+        public string PolePosition { get; set; }
+        public DateTime? LastRaceDt { get; set; }
+        public int NumOfDaysSinceLastRace { get; set; }
+        public DateTime? LastWorkoutDt { get; set; }
+        public int NumOfDaysSinceLastWorkout { get; set; }
+        public float BettingLine { get; set; }
+        public int StartsThisYr { get; set; }
+        public int WinThisYr { get; set; }
+        public float WinsPerc { get; set; }
+        public int Top3Finishes { get; set; }
+        public float Top3FinishesWinPerc { get; set; }
+        public int LifetimeStarts { get; set; }
+        public int LifetimeWins { get; set; }
+        public float LifetimeWinsPerc { get; set; }
+        public int LifetimeTop3Finish { get; set; }
+        public float Top3FinishesLifetimePerc { get; set; }
+        public int TurfStarts { get; set; }
+        public int TurfWins { get; set; }
+        public float TurfWinsPerc { get; set; }
+        public int TurfTop3Finishes { get; set; }
+        public float Top3FinishesTurfPerc { get; set; }
+        public int NonTurfStarts { get; set; }
+        public int NonTurfWins { get; set; }
+        public float NonTurfWinsPerc { get; set; }
+        public int NonTurfTop3Finishes { get; set; }
+        public float Top3FinishesNonTurfPerc { get; set; }
+        public int TrackStart { get; set; }
+        public float TrackEarnings { get; set; }
+        public int TrackWins { get; set; }
+        public int TrackTop3Finishes { get; set; }
+        public int DistanceStart { get; set; }
+        public float DistanceEarnings { get; set; }
+        public int DistanceWins { get; set; }
+        public int DistanceTop3Finishes { get; set; }
+        public int TurfRating { get; set; }
+        public float SpeedRating { get; set; }
+        public float TrackVariant { get; set; }
+        public float AdvancedSpeedFigure { get; set; }
+        public float PTSEarlyPaceRating { get; set; }
+        public float PTSLatePaceRating { get; set; }
+        public float PTSTruePaceRating { get; set; }
+        public float PTSSpeedRating { get; set; }
+        public int OffTrackRating { get; set; }
+        public int JockeyStarts { get; set; }
+        public int JockeyWins { get; set; }
+        public int JockeyTop3Finishes { get; set; }
+        public float JockeyWinningPerc { get; set; }
+        public float JockeyLifetimeWinningPerc { get; set; }
+        public float TrainerLifetimeWinningPerc { get; set; }
+        public float LastWorkoutRankingPercentage { get; set; }
+        public float LastWorkoutDistance { get; set; }
+        public float Workout4FurlongAvg { get; set; }
+        public float Workout5FurlongAvg { get; set; }
+        public float Workout6FurlongAvg { get; set; }
+        public float Workout7FurlongAvg { get; set; }
+        public float Workout8FurlongAvg { get; set; }
+        public float WorkoutTop3RankingAvg { get; set; }
+        public float Workout3MonthAvg { get; set; }
+        public float Workout6MonthAvg { get; set; }
+        public float Workout4FurlongBest { get; set; }
+        public float Workout5FurlongBest { get; set; }
+        public float Workout6FurlongBest { get; set; }
+        public float Workout7FurlongBest { get; set; }
+        public float Workout8FurlongBest { get; set; }
+        public float WorkoutAvgCurrentMonth { get; set; }
+        public float Workout4FurlongCurrentMonth { get; set; }
+        public float Workout5FurlongCurrentMonth { get; set; }
+        public float Workout6FurlongCurrentMonth { get; set; }
+        public float Workout7FurlongCurrentMonth { get; set; }
+        public float Workout8FurlongCurrentMonth { get; set; }
+        public float WorkoutAvgPreviousMonth { get; set; }
+        public float Workout4FurlongPreviousMonth { get; set; }
+        public float Workout5FurlongPreviousMonth { get; set; }
+        public float Workout6FurlongPreviousMonth { get; set; }
+        public float Workout7FurlongPreviousMonth { get; set; }
+        public float Workout8FurlongPreviousMonth { get; set; }
+        public float WorkoutAvgPrevious2Month { get; set; }
+        public float Workout4FurlongPrevious2Month { get; set; }
+        public float Workout5FurlongPrevious2Month { get; set; }
+        public float Workout6FurlongPrevious2Month { get; set; }
+        public float Workout7FurlongPrevious2Month { get; set; }
+        public float Workout8FurlongPrevious2Month { get; set; }
+        public float WorkoutAvgPrevious3Month { get; set; }
+        public float Workout4FurlongPrevious3Month { get; set; }
+        public float Workout5FurlongPrevious3Month { get; set; }
+        public float Workout6FurlongPrevious3Month { get; set; }
+        public float Workout7FurlongPrevious3Month { get; set; }
+        public float Workout8FurlongPrevious3Month { get; set; }
+        public float WorkoutSameTrackBest { get; set; }
+        public float WorkoutSameTrackBest3 { get; set; }
+        public float WorkoutSameTrackAvg { get; set; }
+        public int CalculateTimeMethod { get; set; }
+        public float CalculateTime { get; set; }
+        public float CalculateTimePercentageAvg { get; set; }
+        public float CalculateTimeUsingPaceAvg { get; set; }
+        public float CalculateTimeUsingPaceOverallAvg { get; set; }
+        public float CalculateTimeTrendCorrelation { get; set; }
+        public float CalculateTimeTrendIntercept { get; set; }
+        public float CalculateTimeTrendR2 { get; set; }
+        public float CalculateTimeTrendSlope { get; set; }
+        public float Furlong5Time { get; set; }
+        public float Furlong5TimeRankingPerc { get; set; }
+        public float Furlong6Time { get; set; }
+        public float Furlong6TimeRankingPerc { get; set; }
+        public float Furlong8Time { get; set; }
+        public float Furlong8TimeRankingPerc { get; set; }
+        public int FinishResult { get; set; }
+        public float CalculateTimeUsingPaceOverallAvgRankingPerc { get; set; }
+    }
+}

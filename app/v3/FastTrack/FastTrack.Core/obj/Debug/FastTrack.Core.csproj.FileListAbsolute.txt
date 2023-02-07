@@ -1,0 +1,65 @@
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.dll.config
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.pdb
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\CsvHelper.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\Remotion.Linq.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\System.Interactive.Async.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\CsvHelper.xml
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\Remotion.Linq.xml
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\System.Interactive.Async.xml
+C:\Development\Source\version2\FastTrack\FastTrack.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Development\Source\version2\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.dll
+C:\Development\Source\version2\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.pdb
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.dll.config
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.pdb
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\AutoMapper.Data.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\AutoMapper.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\CsvHelper.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\MathNet.Numerics.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\Remotion.Linq.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\System.Numerics.Vectors.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\AutoMapper.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\CsvHelper.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\MathNet.Numerics.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\Remotion.Linq.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\System.Numerics.Vectors.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.pdb
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\bin\Debug\System.ValueTuple.dll
+C:\Development\Source\Version 3\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.csprojResolveAssemblyReference.cache
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.dll.config
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\FastTrack.Core.pdb
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\AutoMapper.Data.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\AutoMapper.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\CsvHelper.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\MathNet.Numerics.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\Remotion.Linq.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\System.Numerics.Vectors.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\System.ValueTuple.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\AutoMapper.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\CsvHelper.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\MathNet.Numerics.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\Remotion.Linq.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\System.Numerics.Vectors.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\FastTrack\src\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.csproj.CoreCompileInputs.cache
+D:\FastTrack\src\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.csproj.CopyComplete
+D:\FastTrack\src\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.dll
+D:\FastTrack\src\FastTrack\FastTrack.Core\obj\Debug\FastTrack.Core.pdb
